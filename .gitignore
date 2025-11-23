@@ -10,7 +10,7 @@
 .env.local
 .env.production
 .env.development
-.env.example
+# .env.example
 
 # Prisma
 /prisma/dev.db
